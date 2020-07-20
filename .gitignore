@@ -1,5 +1,5 @@
 *.dat
-results/
-results/plots
+results/*
+!results/plots
 *.DS_Store
 *.swp
