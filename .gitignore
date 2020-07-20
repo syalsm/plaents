@@ -1,4 +1,4 @@
 *.dat
-results/
+results/plots
 *.DS_Store
 *.swp
